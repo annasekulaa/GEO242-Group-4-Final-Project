@@ -5,3 +5,5 @@
 
 ## Final Project: 
 [Final ArcGIS Storymap](https://storymaps.arcgis.com/stories/e9843fdf5d6d454486ed9aff49398c90)
+
+## Resources
